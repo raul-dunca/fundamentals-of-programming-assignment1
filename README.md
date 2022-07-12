@@ -1,4 +1,4 @@
-# :computer: Assignment 01
+# Assignment 01
 
 ## Requirements
 - Write the solution to each problem statement in its corresponding Python module (`p1.py`, `p2.py` and `p3.py` respectively).
